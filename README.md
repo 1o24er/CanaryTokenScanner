@@ -1,5 +1,5 @@
 # Canary Token Scanner
-
+20240320
 ## Detecting Canary Tokens and Suspicious URLs in Microsoft Office, Acrobat Reader PDF and Zip Files
 
 ### Introduction
